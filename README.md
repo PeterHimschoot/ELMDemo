@@ -2,4 +2,6 @@
 
 Some changes here.
 
-One more change
+One more change.
+
+Forgot the dot!
